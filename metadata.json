@@ -1,0 +1,7 @@
+{
+  "name": "Company Scout AI",
+  "description": "An intelligent company research assistant that browses the web to generate and refine comprehensive account plans through natural conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
